@@ -13,3 +13,5 @@ else:
     print("Resposta Incorreta!")
 
 print(f"Sua pontuação: {score}")  
+
+print("Nova linha") 
